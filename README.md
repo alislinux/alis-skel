@@ -1,2 +1,2 @@
-# uve-skel
-Settings for Univalent
+# alis-skel
+Settings for AlisLGX
