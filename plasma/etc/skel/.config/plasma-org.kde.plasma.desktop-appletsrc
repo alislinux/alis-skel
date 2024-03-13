@@ -21,9 +21,9 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][23][Wallpaper][org.kde.image][General]
-Image=/usr/share/backgrounds/chikuma-river.jpg
-PreviewImage=/usr/share/backgrounds/chikuma-river.jpg
-SlidePaths=/usr/share/wallpapers/
+Image=/usr/share/backgrounds/alis/alis-bg.png
+PreviewImage=/usr/share/backgrounds/alis-bg.png
+SlidePaths=/usr/share/wallpapers/alis/
 
 [Containments][24]
 activityId=
