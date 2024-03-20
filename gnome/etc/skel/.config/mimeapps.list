@@ -1,7 +1,7 @@
 [Default Applications]
 x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
-x-scheme-handler/mailto=claws-mail.desktop
+x-scheme-handler/mailto=thunderbird.desktop
 audio/mpeg=org.gnome.Rhythmbox3.desktop;
 audio/flac=org.gnome.Rhythmbox3.desktop;
 audio/ogg=org.gnome.Rhythmbox3.desktop;
@@ -12,5 +12,5 @@ image/gif=org.gnome.eog.desktop;
 [Added Associations]
 x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
-x-scheme-handler/mailto=claws-mail.desktop
+x-scheme-handler/mailto=thunderbird.desktop
 application/vnd.efi.iso=udisksctl-loop-setup.desktop;
